@@ -11,7 +11,7 @@ const Portfolio = () => {
       id: 1,
       src: eshopp,
       githublink:"https://github.com/adityadawar24/Eshop",
-      demoLink: "",
+      demoLink: "https://e-shoping-ad.netlify.app/",
     },
     {
       id: 2,
