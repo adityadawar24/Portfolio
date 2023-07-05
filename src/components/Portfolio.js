@@ -17,7 +17,7 @@ const Portfolio = () => {
       id: 2,
       src: newsmonk,
       githublink:"https://github.com/adityadawar24/NewsMonkey",
-      demoLink: "",
+      demoLink: "https://drive.google.com/file/d/1heYWdEcfVtkRLFhfLGTCqYMfrp6yjCjr/view?usp=sharing",
     },
     {
       id: 3,
