@@ -23,7 +23,7 @@ const Portfolio = () => {
       id: 3,
       src: weather,
       githublink:"https://github.com/adityadawar24/Weather-App",
-      demoLink: "https://weather-app-black-delta.vercel.app/",
+      demoLink: "https://weather-app2-delta.vercel.app/",
     },
     {
       id: 4,
