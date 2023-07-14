@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        My name is Aditya  and I am currently a pre-final year student at IIT Roorkee. I have developed skills in Frontend development and Data Structures and Algorithms.
+        My name is Aditya  and I am currently a final year student at IIT Roorkee. I have developed skills in Frontend development and Data Structures and Algorithms.
 Throughout my academic journey, I've gained skills in several programming languages, including C++, HTML, CSS, JavaScript, Tailwind ,Typscript and ReactJS.</p>
 
         
