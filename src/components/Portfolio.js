@@ -36,6 +36,11 @@ const Portfolio = () => {
       src: "https://user-images.githubusercontent.com/62251989/144671753-31ff3e5b-7e4d-451a-b3bc-1a46f4ced711.png",
       githublink:"https://github.com/adityadawar24/Search-profile",
       demoLink: "https://githubprofile-nine.vercel.app/",
+    }, 
+    {
+      id: 6,
+      src: "https://upload.wikimedia.org/wikipedia/commons/b/b2/JPEG_compression_Example.jpg",
+      githublink:"https://github.com/adityadawar24/Image_Compression",
     },
   ];
 
